@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## Running the Scraper
 
 ```bash
-python amazon_scraper.py
+python app.py
 ```
 
 A CSV file will be generated automatically with the current timestamp.
